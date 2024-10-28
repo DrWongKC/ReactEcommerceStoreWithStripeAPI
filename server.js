@@ -1,4 +1,4 @@
-// sk_test_51QEjfKP7AwicnBbGLXFEYkY15pY7ABFVarZoD5jvs9AMhrlurz5J2d8VxGT3iU3ggLAosbwiNMrNr9DsgEVCOQD800SIhlG4bj
+// sk_test_xD^V3S%DatSe83F@7J!$^e6nV524pSgUGbEm3nQTGA#FNdFHYRhhhHKgkHnZf5uaCdzt#TYUF5SuHQX899dSaAkDMkYrEmjRa
 // Coffee: price_1QEjnKP7AwicnBbGoBBljQ38
 // Sunglasses: price_1QEjonP7AwicnBbG5XGln7nR
 // Camera: price_1QEjpsP7AwicnBbGqU7Yn9TT
@@ -6,7 +6,7 @@
 const express = require("express");
 const cors = require("cors");
 const stripe = require("stripe")(
-  "sk_test_51QEjfKP7AwicnBbGLXFEYkY15pY7ABFVarZoD5jvs9AMhrlurz5J2d8VxGT3iU3ggLAosbwiNMrNr9DsgEVCOQD800SIhlG4bj"
+  "sk_test_xD^V3S%DatSe83F@7J!$^e6nV524pSgUGbEm3nQTGA#FNdFHYRhhhHKgkHnZf5uaCdzt#TYUF5SuHQX899dSaAkDMkYrEmjRa"
 );
 
 const app = express();
